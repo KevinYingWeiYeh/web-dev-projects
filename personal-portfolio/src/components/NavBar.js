@@ -85,18 +85,21 @@ export const NavBar = () => {
                 <a
                   href="https://www.linkedin.com/in/kevin-yingwei-yeh/"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <img src={navIcon1} alt="LinkedIn" />
                 </a>
                 <a
                   href="https://www.facebook.com/profile.php?id=100002963491963"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <img src={navIcon2} alt="Facebook" />
                 </a>
                 <a
                   href="https://www.instagram.com/yeh7758kevin_yeh/"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <img src={navIcon3} alt="instagram" />
                 </a>
